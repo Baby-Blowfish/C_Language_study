@@ -1,0 +1,1 @@
+C:\Users\cannu\Desktop\C_Language_study\First_day_study\2-1 C 프로그램의 구조와 데이터 출력 방법\문자열을 화면에 출력하는 프로그램\x64\Debug\문자열을 화면에 출력하는 프로그램.exe
